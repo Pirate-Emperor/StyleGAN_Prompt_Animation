@@ -73,8 +73,4 @@ To enhance the project, you can modify the Jupyter Notebook (`StyleGAN_Prompt_An
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-## Features
-
-
-
 
