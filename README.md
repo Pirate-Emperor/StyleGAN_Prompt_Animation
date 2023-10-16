@@ -22,8 +22,8 @@ To run the project, you will need:
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/stylegan-prompt-animation.git
-cd stylegan_prompt_animation
+git clone https://github.com/Pirate-Emperor/StyleGAN_Prompt_Animation.git
+cd StyleGAN_Prompt_Animation
 ```
 
 Install the required Python packages:
