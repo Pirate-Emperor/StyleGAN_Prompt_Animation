@@ -15,6 +15,9 @@ Developed by Pirate-Emperor, StyleGAN_Prompt_Animation is a Python-based machine
 - **Fine-Tuning**: Optionally fine-tunes the StyleGAN model on a custom dataset to improve prompt alignment and image generation.
 - **Visualization**: Generates plots and charts to display the generated images, animations, and model performance.
   
+## Screenshots
+![](visuals/1.png)
+![](visuals/2.png)
 ## Prerequisites
 
 To run the project, you'll need:
